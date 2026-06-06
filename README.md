@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashwin-2006-t&amp;style=for-the-badge&amp;color=10B981&amp;label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Ashwin-2006-t&amp;style=for-the-badge&amp;color=brightgreen&amp;label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Ashwin-2006-t?style=for-the-badge&amp;color=14B8A6&amp;label=FOLLOWERS&amp;logo=github" />
   <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-34D399?style=for-the-badge&amp;logo=briefcase&amp;logoColor=white" />
 </p>
@@ -57,7 +57,7 @@ public class AshwinProfile {
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300" alt="Coding GIF" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="Coding GIF" />
 </td>
 </tr>
 </table>
@@ -67,16 +67,16 @@ public class AshwinProfile {
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-2006-t&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=10B981&amp;icon_color=14B8A6&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-2006-t&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=10B981&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;langs_count=8" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-2006-t&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-2006-t&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashwin-2006-t&amp;theme=dark&amp;hide_border=true&amp;ring=10B981&amp;fire=34D399&amp;currStreakLabel=14B8A6&amp;sideLabels=C9D1D9&amp;background=0D1117&amp;dates=C9D1D9" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Ashwin-2006-t&amp;theme=tokyonight-duo&amp;hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-2006-t&amp;bg_color=0D1117&amp;color=34D399&amp;line=10B981&amp;point=14B8A6&amp;area=true&amp;hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-2006-t&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ public class AshwinProfile {
 ## Trophy Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashwin-2006-t&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashwin-2006-t&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" />
 </p>
 
 ---
