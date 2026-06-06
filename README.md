@@ -4,23 +4,19 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&height=55&lines=%F0%9F%92%BB+Computer+Science+Engineering+Student;%E2%98%95+Java+%26+Python+Developer;%F0%9F%A4%96+AI%2FML+%26+Cybersecurity+Enthusiast;%F0%9F%9A%80+Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%92%BB+Computer+Science+Engineering+Student;%E2%98%95+Java+%26+Python+Developer;%F0%9F%A4%96+AI%2FML+%26+Cybersecurity+Enthusiast;%F0%9F%9A%80+Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashwin-2006-t&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" />
-  &nbsp;
   <img src="https://img.shields.io/github/followers/Ashwin-2006-t?style=for-the-badge&color=14B8A6&label=FOLLOWERS&logo=github" />
-  &nbsp;
   <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-34D399?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
-<br/>
-
 ---
 
-## 🧠 `whoami`
+## 🧠 whoami
 
 <table>
 <tr>
@@ -34,7 +30,6 @@
  */
 public class AshwinProfile {
 
-    // Identity
     String name     = "Ashwin T";
     String role     = "Java Developer";
     String college  = "Panimalar Engineering College";
@@ -42,7 +37,6 @@ public class AshwinProfile {
     double cgpa     = 9.0;
     String location = "Chennai, Tamil Nadu, India";
 
-    // Focus Areas
     String[] currentFocus = {
         "Spring Boot + REST APIs",
         "DSA + Competitive Programming",
@@ -50,13 +44,12 @@ public class AshwinProfile {
         "Cybersecurity Fundamentals"
     };
 
-    // Career Goal
     String dream = "Software Engineer @ Top MNC";
-    String fact  = "Ranked 3rd in dept. (Sem 3)";
+    String fact  = "Ranked 3rd in dept. Sem 3";
 
     void greet() {
         System.out.println(
-            "Hello World! Let's build together."
+            "Hello World! Lets build together."
         );
     }
 }
@@ -64,8 +57,9 @@ public class AshwinProfile {
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif" /><br/><br/>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="java gif"/>
+
+![Coding](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+
 </td>
 </tr>
 </table>
@@ -80,11 +74,11 @@ public class AshwinProfile {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashwin-2006-t&theme=dark&hide_border=true&ring=10B981&fire=34D399&currStreakLabel=14B8A6&sideLabels=C9D1D9&background=0D1117&dates=C9D1D9&stroke=10B981" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=Ashwin-2006-t&theme=dark&hide_border=true&ring=10B981&fire=34D399&currStreakLabel=14B8A6&sideLabels=C9D1D9&background=0D1117&dates=C9D1D9&stroke=10B981" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-2006-t&bg_color=0D1117&color=34D399&line=10B981&point=14B8A6&area=true&hide_border=true&area_color=10B981" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-2006-t&bg_color=0D1117&color=34D399&line=10B981&point=14B8A6&area=true&hide_border=true&area_color=10B981" width="95%" />
 </p>
 
 ---
@@ -99,7 +93,7 @@ public class AshwinProfile {
 
 ## 🛠️ Tech Arsenal
 
-<p align="center"><b>── Languages ──</b></p>
+<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-10B981?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14B8A6?style=for-the-badge&logo=python&logoColor=white" />
@@ -108,7 +102,7 @@ public class AshwinProfile {
   <img src="https://img.shields.io/badge/JavaScript-14B8A6?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-<p align="center"><b>── Frameworks and Backend ──</b></p>
+<p align="center"><b>Frameworks and Backend</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-10B981?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-14B8A6?style=for-the-badge&logo=spring&logoColor=white" />
@@ -117,7 +111,7 @@ public class AshwinProfile {
   <img src="https://img.shields.io/badge/Streamlit-14B8A6?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-<p align="center"><b>── AI and Machine Learning ──</b></p>
+<p align="center"><b>AI and Machine Learning</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-10B981?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-14B8A6?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -125,14 +119,21 @@ public class AshwinProfile {
   <img src="https://img.shields.io/badge/NLP-10B981?style=for-the-badge&logo=spacy&logoColor=white" />
 </p>
 
-<p align="center"><b>── Web Technologies ──</b></p>
+<p align="center"><b>Cybersecurity</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-14B8A6?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Steganography-34D399?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow%20CSA-10B981?style=for-the-badge&logo=servicenow&logoColor=white" />
+</p>
+
+<p align="center"><b>Web Technologies</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-10B981?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-14B8A6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-34D399?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-<p align="center"><b>── Databases ──</b></p>
+<p align="center"><b>Databases</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-10B981?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-14B8A6?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -140,7 +141,7 @@ public class AshwinProfile {
   <img src="https://img.shields.io/badge/Oracle%20SQL-10B981?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-<p align="center"><b>── Tools and Platforms ──</b></p>
+<p align="center"><b>Tools and Platforms</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-10B981?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
@@ -155,83 +156,73 @@ public class AshwinProfile {
 ## 💼 Internship Experience
 
 <details>
-<summary><b>🤖 &nbsp; Infosys Springboard — Machine Learning Intern &nbsp;|&nbsp; 8 Weeks, 2025</b></summary>
+<summary><b>Infosys Springboard — Machine Learning Intern | 8 Weeks, 2025</b></summary>
 <br/>
-
-> Built an end-to-end **Fake Job Posting Detection System** using ML and NLP on real-world job data.
 
 | Field | Details |
 |---|---|
 | **Company** | Infosys Springboard |
 | **Role** | Machine Learning Intern |
-| **Duration** | 8 Weeks — 2025 |
+| **Duration** | 8 Weeks, 2025 |
 | **Stack** | Python, NLP, Pandas, Scikit-learn |
 
 **Key Contributions:**
-- Processed and analyzed **500+ job records** for pattern recognition and feature extraction
-- Built and fine-tuned ML classification models achieving **85% accuracy**
-- Applied **NLP techniques** for text preprocessing and classification
-- Delivered a complete ML pipeline from data ingestion to model deployment
-
-**Impact:** System capable of processing **10,000+ records** in production
+- Processed and analyzed **500+ job records** for pattern recognition
+- Built and tuned ML classification models achieving **85% accuracy**
+- Applied NLP techniques for text preprocessing and classification
+- System capable of processing **10,000+ records** in production
 
 </details>
 
 <details>
-<summary><b>🔒 &nbsp; Edunet Foundation and AICTE — Cybersecurity Intern &nbsp;|&nbsp; 6 Weeks, 2024</b></summary>
+<summary><b>Edunet Foundation and AICTE — Cybersecurity Intern | 6 Weeks, 2024</b></summary>
 <br/>
-
-> Developed a steganography tool for secure image-based message hiding.
 
 | Field | Details |
 |---|---|
 | **Company** | Edunet Foundation and AICTE |
 | **Role** | Cybersecurity Intern |
-| **Duration** | 6 Weeks — 2024 |
+| **Duration** | 6 Weeks, 2024 |
 | **Stack** | Python, LSB Encoding, Image Processing |
 
 **Key Contributions:**
-- Built a **steganography CLI tool** using Least Significant Bit (LSB) encoding
-- Implemented both **encode and decode** modules with bit-level pixel manipulation
+- Built a steganography CLI tool using Least Significant Bit encoding
+- Implemented encode and decode modules with bit-level pixel manipulation
 - Tested across **50+ images** with **100% accuracy**
 
 </details>
 
 <details>
-<summary><b>🌐 &nbsp; CodeBind Technology — Web Development Intern &nbsp;|&nbsp; 2024</b></summary>
+<summary><b>CodeBind Technology — Web Development Intern | 2024</b></summary>
 <br/>
-
-> Delivered full-stack web modules in an Agile team environment.
 
 | Field | Details |
 |---|---|
 | **Company** | CodeBind Technology |
 | **Role** | Web Development Intern |
-| **Duration** | 2 Weeks — 2024 |
+| **Duration** | 2 Weeks, 2024 |
 | **Stack** | HTML, CSS, JavaScript, REST APIs |
 
 **Key Contributions:**
-- Built responsive front-end components and integrated **REST APIs**
-- Collaborated in an **Agile/Sprint-based** development workflow
+- Built responsive front-end components and integrated REST APIs
+- Collaborated in an Agile sprint-based development workflow
 
 </details>
 
 <details>
-<summary><b>☁️ &nbsp; ServiceNow — CSA Intern &nbsp;|&nbsp; 4 Weeks, 2024</b></summary>
+<summary><b>ServiceNow — CSA Intern | 4 Weeks, 2024</b></summary>
 <br/>
-
-> Trained in enterprise IT service management on the ServiceNow platform.
 
 | Field | Details |
 |---|---|
 | **Company** | ServiceNow |
 | **Role** | CSA Intern |
-| **Duration** | 4 Weeks — 2024 |
+| **Duration** | 4 Weeks, 2024 |
 | **Stack** | ServiceNow Platform |
 
 **Key Contributions:**
-- Trained in **Certified System Administrator (CSA)** practices
-- Gained hands-on experience with ITSM workflows and platform administration
+- Trained in Certified System Administrator practices
+- Gained hands-on experience with ITSM workflows
 
 </details>
 
@@ -243,11 +234,11 @@ public class AshwinProfile {
 
 | Icon | Project | Stack | Highlights |
 |:---:|---------|-------|------------|
-| 🏦 | **Professional Banking System** | Java, Swing, File I/O | PIN authentication · OOP design · Serialized persistent storage |
-| 📋 | **Spring Boot Student Result System** | Java, Spring Boot, MySQL | Full CRUD REST API · Auto grade calculator · JPA integration |
-| 🔋 | **EV Adoption Forecasting Dashboard** | Python, Scikit-learn, Streamlit | 100+ records · 85% accuracy · Interactive visualizations |
-| 🔐 | **Image Steganography Tool** | Python, LSB Encoding | 50+ images · 100% accuracy · CLI encode/decode |
-| 🕵️ | **Fake Job Detection System** | Python, NLP, Scikit-learn | 500+ records · 85% accuracy · End-to-end ML pipeline |
+| 🏦 | **Professional Banking System** | Java, Swing, File I/O | PIN auth · OOP design · Persistent storage |
+| 📋 | **Spring Boot Student Result System** | Java, Spring Boot, MySQL | Full CRUD REST API · Auto grade calculator |
+| 🔋 | **EV Adoption Forecasting Dashboard** | Python, Scikit-learn, Streamlit | 85% accuracy · Interactive visualizations |
+| 🔐 | **Image Steganography Tool** | Python, LSB Encoding | 100% accuracy · CLI encode/decode |
+| 🕵️ | **Fake Job Detection System** | Python, NLP, Scikit-learn | 500+ records · 85% accuracy |
 
 </p>
 
@@ -276,9 +267,9 @@ public class AshwinProfile {
 
 | Degree | Institution | Year | Score |
 |:---:|---|:---:|:---:|
-| 🎓 B.E. — Computer Science and Engineering | Panimalar Engineering College, Chennai | 2023 – 2027 | **9.0 / 10 CGPA** |
-| 📘 Class XII — CBSE | Kendriya Vidyalaya, Air Force Station, Avadi | 2023 | **85.8%** |
-| 📗 Class X — CBSE | Kendriya Vidyalaya, Air Force Station, Avadi | 2021 | **84.4%** |
+| 🎓 B.E. Computer Science and Engineering | Panimalar Engineering College, Chennai | 2023 to 2027 | CGPA 9.0/10 |
+| 📘 Class XII CBSE | Kendriya Vidyalaya, Air Force Station, Avadi | 2023 | 85.8% |
+| 📗 Class X CBSE | Kendriya Vidyalaya, Air Force Station, Avadi | 2021 | 84.4% |
 
 </p>
 
@@ -288,15 +279,15 @@ public class AshwinProfile {
 
 <p align="center">
 
-| Badge | Certification / Achievement | Issuer |
+| Badge | Achievement | Issuer |
 |:---:|---|---|
-| 🥉 | **Department Rank 3** — 3rd Semester | Panimalar Engineering College |
-| ☕ | **Java Developer Certification** | Infosys Springboard |
-| ☁️ | **ServiceNow Certified System Administrator (CSA)** | ServiceNow |
-| 🌐 | **Diploma in Full Stack Development** — Grade A (83%) | CASS Academy |
-| 🤖 | **Introduction to Machine Learning** | NPTEL — IIT Kharagpur |
-| 🔒 | **Cybersecurity Internship** | Edunet Foundation and AICTE |
-| 🖥️ | **Spring Boot Essential Skills** | Certified Course |
+| 🥉 | Department Rank 3, Semester 3 | Panimalar Engineering College |
+| ☕ | Java Developer Certification | Infosys Springboard |
+| ☁️ | ServiceNow Certified System Administrator | ServiceNow |
+| 🌐 | Diploma in Full Stack Development, Grade A 83% | CASS Academy |
+| 🤖 | Introduction to Machine Learning | NPTEL, IIT Kharagpur |
+| 🔒 | Cybersecurity Internship | Edunet Foundation and AICTE |
+| 🖥️ | Spring Boot Essential Skills | Certified Course |
 
 </p>
 
@@ -305,49 +296,46 @@ public class AshwinProfile {
 ## 📚 Currently Learning
 
 ```
- ASHWIN'S LEARNING ROADMAP — 2026
-════════════════════════════════════════════════════════
+ ASHWIN'S LEARNING ROADMAP 2026
+=======================================================
 
   Data Structures and Algorithms
-    Arrays · Strings · Hashing · Trees · Graphs
-    Dynamic Programming · LeetCode Practice
+    Arrays  Strings  Hashing  Trees  Graphs
+    Dynamic Programming  LeetCode Practice
 
   Advanced Java and Spring Ecosystem
-    Spring Boot · Spring Security · Microservices
-    Design Patterns · OOP Principles
+    Spring Boot  Spring Security  Microservices
+    Design Patterns  OOP Principles
 
   Machine Learning and AI
-    Scikit-learn · Pandas · NumPy · NLP
-    Model Evaluation · Feature Engineering
+    Scikit-learn  Pandas  NumPy  NLP
+    Model Evaluation  Feature Engineering
 
   Cybersecurity
-    Network Security · Ethical Hacking Tools
-    Cryptography · Steganography
+    Network Security  Ethical Hacking Tools
+    Cryptography  Steganography
 
   System Design Fundamentals
-    Scalability · Load Balancing · Caching
-    REST vs GraphQL · Database Design
+    Scalability  Load Balancing  Caching
+    REST vs GraphQL  Database Design
 
-════════════════════════════════════════════════════════
+=======================================================
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Ashwin-2006-t">
     <img src="https://img.shields.io/badge/GitHub-Ashwin--2006--t-10B981?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/ashwin2006">
     <img src="https://img.shields.io/badge/LinkedIn-ashwin2006-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:ashwin2006t@gmail.com">
     <img src="https://img.shields.io/badge/Email-ashwin2006t%40gmail.com-34D399?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://ashwint.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-ashwint.netlify.app-10B981?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
