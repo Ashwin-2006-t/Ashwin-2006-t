@@ -12,13 +12,12 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=Ashwin-2006-t&style=for-the-badge&color=10B981)
-
-![](https://img.shields.io/github/followers/Ashwin-2006-t?style=for-the-badge&color=14B8A6&label=FOLLOWERS)
-
-![](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-34D399?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Ashwin-2006-t&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/Ashwin-2006-t?style=for-the-badge&color=14B8A6&label=FOLLOWERS&logo=github&logoColor=white)
+![](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-34D399?style=for-the-badge&logo=briefcase&logoColor=white)
 
 </p>
+
 ---
 
 ## whoami
@@ -62,7 +61,9 @@ public class AshwinProfile {
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="Coding GIF" />
+
+![Coding GIF](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+
 </td>
 </tr>
 </table>
@@ -72,16 +73,22 @@ public class AshwinProfile {
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-2006-t&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-2006-t&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" width="38%" />
+
+![](https://github-readme-stats.vercel.app/api?username=Ashwin-2006-t&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-2006-t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashwin-2006-t&amp;theme=tokyonight-duo&amp;hide_border=true" width="60%" />
+
+![](https://streak-stats.demolab.com?user=Ashwin-2006-t&theme=tokyonight-duo&hide_border=true)
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-2006-t&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" />
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ashwin-2006-t&theme=tokyo-night&hide_border=true&area=true)
+
 </p>
 
 ---
@@ -89,69 +96,92 @@ public class AshwinProfile {
 ## Trophy Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashwin-2006-t&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" />
+
+![](https://github-profile-trophy.vercel.app/?username=Ashwin-2006-t&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
+
 </p>
 
 ---
 
 ## Tech Arsenal
 
-<p align="center"><b>Languages</b></p>
+**Languages**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-10B981?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14B8A6?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/C-34D399?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-10B981?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-14B8A6?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
+
+![](https://img.shields.io/badge/Java-10B981?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-14B8A6?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-34D399?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-10B981?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-14B8A6?style=for-the-badge&logo=javascript&logoColor=white)
+
 </p>
 
-<p align="center"><b>Frameworks and Backend</b></p>
+**Frameworks and Backend**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-10B981?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-14B8A6?style=for-the-badge&amp;logo=spring&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-34D399?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-10B981?style=for-the-badge&amp;logo=django&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-14B8A6?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" />
+
+![](https://img.shields.io/badge/Spring%20Boot-10B981?style=for-the-badge&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/Spring%20Data%20JPA-14B8A6?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/REST%20API-34D399?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Django-10B981?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-14B8A6?style=for-the-badge&logo=streamlit&logoColor=white)
+
 </p>
 
-<p align="center"><b>AI and Machine Learning</b></p>
+**AI and Machine Learning**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-10B981?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-14B8A6?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-34D399?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-10B981?style=for-the-badge&amp;logo=spacy&amp;logoColor=white" />
+
+![](https://img.shields.io/badge/Scikit--learn-10B981?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Pandas-14B8A6?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-34D399?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/NLP-10B981?style=for-the-badge&logo=spacy&logoColor=white)
+
 </p>
 
-<p align="center"><b>Cybersecurity</b></p>
+**Cybersecurity**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-14B8A6?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Steganography-34D399?style=for-the-badge&amp;logo=gnuprivacyguard&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow%20CSA-10B981?style=for-the-badge&amp;logo=servicenow&amp;logoColor=white" />
+
+![](https://img.shields.io/badge/Ethical%20Hacking-14B8A6?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/Steganography-34D399?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![](https://img.shields.io/badge/ServiceNow%20CSA-10B981?style=for-the-badge&logo=servicenow&logoColor=white)
+
 </p>
 
-<p align="center"><b>Web Technologies</b></p>
+**Web Technologies**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-10B981?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-14B8A6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-34D399?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
+
+![](https://img.shields.io/badge/HTML5-10B981?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-14B8A6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-34D399?style=for-the-badge&logo=javascript&logoColor=white)
+
 </p>
 
-<p align="center"><b>Databases</b></p>
+**Databases**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-10B981?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-14B8A6?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-34D399?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL-10B981?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
+
+![](https://img.shields.io/badge/MySQL-10B981?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-14B8A6?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-34D399?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Oracle%20SQL-10B981?style=for-the-badge&logo=oracle&logoColor=white)
+
 </p>
 
-<p align="center"><b>Tools and Platforms</b></p>
+**Tools and Platforms**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-10B981?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-14B8A6?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-34D399?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-10B981?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-14B8A6?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-34D399?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=white" />
+
+![](https://img.shields.io/badge/Git-10B981?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-14B8A6?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/VS%20Code-34D399?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ%20IDEA-10B981?style=for-the-badge&logo=intellijidea&logoColor=white)
+![](https://img.shields.io/badge/Postman-14B8A6?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Android%20Studio-34D399?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 </p>
 
 ---
@@ -233,8 +263,6 @@ public class AshwinProfile {
 
 ## Featured Projects
 
-<p align="center">
-
 | Icon | Project | Stack | Highlights |
 |:---:|---------|-------|------------|
 | 🏦 | **Professional Banking System** | Java, Swing, File I/O | PIN auth · OOP design · Persistent storage |
@@ -243,15 +271,15 @@ public class AshwinProfile {
 | 🔐 | **Image Steganography Tool** | Python, LSB Encoding | 100% accuracy · CLI encode/decode |
 | 🕵 | **Fake Job Detection System** | Python, NLP, Scikit-learn | 500+ records · 85% accuracy |
 
-</p>
-
 ---
 
 ## Problem Solving Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Solver-10B981?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20Mastery-14B8A6?style=for-the-badge&amp;logo=bookstack&amp;logoColor=white" />
+
+![](https://img.shields.io/badge/LeetCode-Active%20Solver-10B981?style=for-the-badge&logo=leetcode&logoColor=white)
+![](https://img.shields.io/badge/Focus-DSA%20Mastery-14B8A6?style=for-the-badge&logo=bookstack&logoColor=white)
+
 </p>
 
 | Category | Problems |
@@ -266,21 +294,15 @@ public class AshwinProfile {
 
 ## Education
 
-<p align="center">
-
 | Degree | Institution | Year | Score |
 |:---:|---|:---:|:---:|
 | B.E. Computer Science and Engineering | Panimalar Engineering College, Chennai | 2023 to 2027 | CGPA 9.0/10 |
 | Class XII CBSE | Kendriya Vidyalaya, Air Force Station, Avadi | 2023 | 85.8% |
 | Class X CBSE | Kendriya Vidyalaya, Air Force Station, Avadi | 2021 | 84.4% |
 
-</p>
-
 ---
 
 ## Certifications and Achievements
-
-<p align="center">
 
 | Badge | Achievement | Issuer |
 |:---:|---|---|
@@ -291,8 +313,6 @@ public class AshwinProfile {
 | 🤖 | Introduction to Machine Learning | NPTEL, IIT Kharagpur |
 | 🔒 | Cybersecurity Internship | Edunet Foundation and AICTE |
 | 🖥️ | Spring Boot Essential Skills | Certified Course |
-
-</p>
 
 ---
 
@@ -330,24 +350,20 @@ public class AshwinProfile {
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Ashwin-2006-t">
-    <img src="https://img.shields.io/badge/GitHub-Ashwin--2006--t-10B981?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ashwin2006">
-    <img src="https://img.shields.io/badge/LinkedIn-ashwin2006-14B8A6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
-  <a href="mailto:ashwin2006t@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashwin2006t%40gmail.com-34D399?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
-  <a href="https://ashwint.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-ashwint.netlify.app-10B981?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ashwin--2006--t-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwin-2006-t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashwin2006-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin2006)
+[![Email](https://img.shields.io/badge/Email-ashwin2006t%40gmail.com-34D399?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwin2006t@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashwint.netlify.app-10B981?style=for-the-badge&logo=netlify&logoColor=white)](https://ashwint.netlify.app)
+
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=140&amp;section=footer&amp;animation=twinkling" />
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:10B981&height=140&section=footer&animation=twinkling)
+
 </p>
 
 <p align="center">
