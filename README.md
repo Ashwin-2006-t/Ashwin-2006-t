@@ -1,19 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:10B981&height=220&section=header&text=Ashwin%20T&fontSize=60&fontColor=ffffff" />
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:10B981&height=220&section=header&text=Ashwin%20T&fontSize=60&fontColor=ffffff&animation=fadeIn)
+
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=1000&amp;color=14B8A6&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=55&amp;lines=Computer+Science+Engineering+Student;Java+%26+Python+Developer;AI%2FML+%26+Cybersecurity+Enthusiast;Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
-  </a>
+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Developer;Python+Developer;AI%2FML+Enthusiast;Cybersecurity+Learner)
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashwin-2006-t&amp;style=for-the-badge&amp;color=brightgreen&amp;label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Ashwin-2006-t?style=for-the-badge&amp;color=14B8A6&amp;label=FOLLOWERS&amp;logo=github" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-34D399?style=for-the-badge&amp;logo=briefcase&amp;logoColor=white" />
-</p>
 
+![](https://komarev.com/ghpvc/?username=Ashwin-2006-t&style=for-the-badge&color=10B981)
+
+![](https://img.shields.io/github/followers/Ashwin-2006-t?style=for-the-badge&color=14B8A6&label=FOLLOWERS)
+
+![](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-34D399?style=for-the-badge)
+
+</p>
 ---
 
 ## whoami
